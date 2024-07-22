@@ -562,3 +562,68 @@
 +3- Soundscape Overhaul - Solarint
 +2- Main Menu Theme - Deathcard Cabin - Grokitach
 +1- Audio_separator
+GAMMA_BAS_patch_New_Game
+zzb_BAS_GAMMA_FN57_PATCH
+Modified_NPC_and_Starting_Loadouts_for_BAS
+[Maid - Haruka] EFPWP
+[Maid - Haruka] EFPWP GAMMA Patch
+AndTheHeroIs' Weapon and minimod pack
+AR_Pack_DLTX
+ATHI_SIG_MCX_SPEAR
+DAEWOO_FINAL_UPDATE_MODDB
+Desert Eagle Reanimation
+DeagleRepos
+Draco
+Fort Anims
+Fort Anims Patch
+Groza Reanim
+LEWD_ShAK_Tactical_v
+LEWD_Snipex_AlligatorV
+LEWD_Thompson_Modern
+Noveske Chainsaw, SR-30, MCX Rattle
+RWAP_556_packold
+RWAP_AK_PACKold
+Gunslinger Mp5 BAS Sights addon_RWAP
+RWAP_300Blackout_Pack
+RWAP_458socom_pack
+RWAP_556_pack
+RWAP_762x51_Pack
+RWAP_Additional G36_pack_Patch for gamma users (G36C,G36K_Tac,G36C Merc)
+RWAP_AK_PACK
+RWAP_AM17_AMB17_Pack
+RWAP_F2000_pack
+RWAP_G3A3_Pack
+RWAP_MCX_remake
+RWAP_Shotgun_Pack
+SIG_552_Tactical
+Siber's and Molphar's LR300
+Modded_Weapons_GAMMA_Damage_Balance
+CleanerVectorSights
+DescriptiveStashCoordinates
+DLTX_Companions_Keep_Up
+DLTX_Scopes_as_Binoculars_v
+Exo_Anims
+fight_my_foes
+FireModeCheck
+InspectWeapon
+Inventory_Weights_Revised
+Iron_child
+keywrapper
+LootBox_noSkill
+LootBoxes_GAMMA_
+No_Voiced_Actor_for_Command_Wheel__other_dialogues_lines
+PDA_reanimated
+Better_hands_position_for_PDA_Reanimation
+Psydog_no_damage_from_phantoms_DLTX
+Quicker Transition Time
+Utjans_QoL_Bundle
+Campfire heals Limbs
+Companions_Dont_Die
+centered_no_wheel_for_old_ammo_momo_slugs_comp
+20x70_Slugs
+Gas_Mask_Wipe_Resound
+Improved_ammo_wheel_highlight_-_1.0_green_-_AlphaLion
+Brighter_red_glowstick_-_1.0_-_AlphaLion
+Correct_green_glowstick_icon_-_1.0_-_AlphaLion
+Jabbers_Soulslike_0.22-beta
+NPCChatNames
